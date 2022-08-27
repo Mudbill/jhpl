@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://javadoc.lwjgl.org/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="JHPL/lib/natives-linux"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/slick-util.jar"/>
+	<classpathentry kind="lib" path="lib/SashComposite-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-swt-bridge-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/swt-nux.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
